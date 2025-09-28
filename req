@@ -1,0 +1,35 @@
+POST http://rabak.iranet.net:41788/api/base/GetServerStartupData HTTP/1.1
+Host: rabak.iranet.net:41788
+Content-Length: 34
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+UseCache: undefined
+STH: f0da30c5-6e61-4dda-aa98-bbb1a5dbe1a9
+Content-Type: application/json
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Origin: http://rabak.iranet.net:41788
+Referer: http://rabak.iranet.net:41788/
+Accept-Encoding: gzip, deflate, br
+Cookie: Authorization_X41788=bearer+MwIBd7IOZq6N8JaJaWK9nH-VnqwndwNZEkarD6qd4P7K84E6pK-hKaTC9BYqeCLZALD4OPpP7R7CAT9C6wC4mS3dPd7-xVlv-id13NkwUbYGW9HuioQ3HRqQxpiv3oKGRPfTXDiUXrsJZNthtLAApAFWBpOcNdUmlUVxUtjmE91geCQCPX0UpVkLBiW88J83UspnRWAq0VbrgV-341Rbmo9PftYlP-XrkNEDOmT_oVQt-mmywagFOuWPQ56CdWFz08I1XeV9MfEuPU50xZSd2lsVoNhZptE_NwDprtN9ParuB_Jh3JJ1hKEDAh3bJbWfeqy3xz6qrsfLnNs_uTGMBxb0yt80OY3bzE6sgjSTWb21mdK8Vw47hnEWIwtB2pOIz6DJ9OGJUDojXQ96Z_5uhb-MD5M4jHZOTEahyqb1fW7Qt0xROZ8Ejst_Cu6ELbH9PRNUxQ
+Connection: keep-alive
+
+{"action":"?","parameters":"ßá"}
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/plain; charset=utf-8
+Expires: -1
+X-Correlation-Id: d6226c2a-0397-44e3-934b-0ea5f86cf76d
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' resource://pdf.js   ; style-src   'self' 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com
+X-Content-Type-Options: nosniff
+Date: Sat, 27 Sep 2025 12:12:14 GMT
+Content-Length: 1743
+
+$%$ß§ÙÐØÙÖÉÊÅ­¶§ÙÐØÙÖÉ×ßÊÅ­¶=å<<<=îÉÒ¹·©ÒËÐÍ×Ìá§ÙÐØÙÖÉ×¶ØÐßÊÅ­¶ØÖÙÉÉÒ¹·ÊÅÐ×Éá®·ªÍÐÉÃ¸ÉÑÔÓÖÅÖÝ¨ÝÒÅÑÍÇ×³Ù§ÌÅÖØÎ×£¨ª¨­×¶ØÐØÖÙÉ¸ÌÉÑÉ«ÖÅÝ§ÙÖÖÉÒØ½ÉÅÖ§ÙÖÖÉÒØ±ÓÒØÌ=é=ë<¨ÅÝ³Ê±ÓÒØÌ¨ÅÝ³Ê»ÉÉÏ<=ê<=ë¨ÅØÉ¸ÉÜØ<=ê<=ë·ØÅÖØÙÔ¥Ø<=ê<=ë¹×ÉÖ¨Í×ÔÐÅÝ²ÅÑÉ<<=ë<<<=î<<=éºÉÖ×ÍÓÒ·Ý×ØÉÑ²ÅÑÉ=é<?ð<?ð<<<<>
+­×¹×ÉÖ°ÓËËÉÈ­ÒØÖÙÉ«ÉÒÉÖÅÐ¯ÉÝÈÉÉÉÉÉÅÊÈÅÊÈÊÇ§ÅÔØÇÌÅ­È§ÅÔØÇÌÅºÅÐÍÈ¸ÍÑÉ·ÉÖÚÉÖ¸ÍÑÉÞÓÒÉ³ÊÊ×ÉØ·ÉÖÚÉÖ¸ÍÑÉÞÓÒÉ¥×ÍÅ¸ÉÌÖÅÒÉÜØÖÅ±É××ÅËÉÅÆÇª©ª©ÜÔÍÖÉ·É××ÍÓÒÊÅÐ×É­×¨ÉÆÙËÊÅÐ×É©ÒÇÖÝÔØÍÓÒØÖÙÉÉØÖÙÉ·ÙÊÊÍÜ©ÒÅÆÐÉªÓÖËÉØ´Å××ÛÓÖÈÊÅÐ×É©ÒÅÆÐÉ³¸´ÊÅÐ×É³¸´¸ÝÔÉ¸ÉÑÔÐÅØÉºÉÖ×ÍÓÒ¶ÉÐÉÅ×ÉºÉÖ×ÍÓÒØÖÙÉ§ÌÅÒËÉ¯ÉÝºÉÖ×ÍÓÒÊÊÇÇÇÊÇÆÅÅÈÇÊÆÉá
